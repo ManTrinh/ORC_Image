@@ -147,7 +147,7 @@ tifffile==2021.11.2
 toml==0.10.2
 toolz==0.12.0
 torch==1.13.1
-torchvision==0.15.2
+torchvision==0.14.1
 tornado==6.3
 tqdm==4.65.0
 tritonclient==2.33.0
